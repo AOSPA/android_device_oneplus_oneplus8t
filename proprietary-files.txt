@@ -370,20 +370,6 @@ vendor/lib64/vendor.oneplus.hardware.camera@1.0.so
 vendor/lib64/vendor.oneplus.hardware.CameraMDMHIDL@1.0.so
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
 
-# Fingerprint
-vendor/lib/hw/goodix.fod.kona.so
-vendor/lib/hw/goodix.g6.fod.kona.so
-vendor/lib/rfsa/adsp/libproxy_skel.so
-vendor/lib/fp_hal_extension.so
-vendor/lib/libgf_g6_ud_hal.so
-vendor/lib/libgf_ud_hal.so
-vendor/lib64/hw/goodix.fod.kona.so
-vendor/lib64/hw/goodix.g6.fod.kona.so
-vendor/lib64/fp_hal_extension.so
-vendor/lib64/libgf_g6_ud_hal.so
-vendor/lib64/libgf_ud_hal.so
-vendor/lib64/libhvx_proxy_stub.so
-
 # IPA FWS/UC
 vendor/firmware/ipa_uc.b00
 vendor/firmware/ipa_uc.b01
