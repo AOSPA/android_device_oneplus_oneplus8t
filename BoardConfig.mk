@@ -14,8 +14,11 @@
 
 include device/oneplus/oneplus8/BoardConfig.mk
 
+# Display
+TARGET_SCREEN_DENSITY := 450
+
 # OTA
-TARGET_OTA_ASSERT_DEVICE := OnePlus8T,oneplus8t
+TARGET_OTA_ASSERT_DEVICE := OnePlus8T,oneplus8t,oneplus9r,OnePlus9R
 
 # Partitions
 BOARD_SUPER_PARTITION_SIZE := 7516192768
