@@ -14,6 +14,9 @@
 
 include device/oneplus/oneplus8/BoardConfig.mk
 
+# Display
+TARGET_SCREEN_DENSITY := 450
+
 # OTA
 TARGET_OTA_ASSERT_DEVICE := OnePlus8T,oneplus8t
 
